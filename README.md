@@ -1,0 +1,2 @@
+# win
+A Lottery game.
